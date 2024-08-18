@@ -48,7 +48,10 @@ Other Actions Not Blocking Release
 0.24.0 (not yet released)
 =========================
 
-Nothing yet.
+Changes
+-------
+
+* cffi dependency upgraded to >=1.17.0 for Python 3.13 support.
 
 0.23.0 (released 2024-07-14)
 ============================
